@@ -1,4 +1,4 @@
-# NetEaseMusicWorld++
+# NetEaseMusicWorldPro
 
 Google Chrome 要求扩展开发者迁移到 Manifest V3，原作者扩展仍为 Manifest V2, 且原作者很久未更新。
 
